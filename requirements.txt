@@ -1,2 +1,2 @@
-py-cord==2.0.0rc1
-PyYAML==6.0
+discord==2.3.1
+pyyaml==6.0.1
